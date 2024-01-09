@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sajid Rahman</h1>
 <h3 align="center">University Student (CSE)</h3>
 
+"![image](https://github.com/sajidrahman00/sajidrahman00/assets/137380505/ea2783f3-e4e7-4e33-8bab-d984da569efc)"
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajidrahman00&label=Profile%20views&color=0e75b6&style=flat" alt="sajidrahman00" /> </p>
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajidrahman00&label=Profile%20views&color=0e75b6&style=flat" alt="sajidrahman00" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sajidrifan" target="blank"><img src="https://img.shields.io/twitter/follow/sajidrifan?logo=twitter&style=for-the-badge" alt="sajidrifan" /></a> </p>
